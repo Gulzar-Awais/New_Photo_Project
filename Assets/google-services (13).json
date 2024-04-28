@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204264818961",
+    "project_id": "pub---game-bunch",
+    "storage_bucket": "pub---game-bunch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204264818961:android:c8c4855f3231ea6679a4b0",
+        "android_client_info": {
+          "package_name": "com.photo.taker.gb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_CLoID1oQBAZ20KY49jvc2ssFvxG2JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
