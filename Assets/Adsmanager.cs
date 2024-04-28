@@ -80,7 +80,7 @@ string appkey = "unexpected_platform";
         IronSourceRewardedVideoEvents.onAdClickedEvent += RewardedVideoOnAdClickedEvent;
 
     }
-
+    //
     void SDKInitialized()
     {
         Debug.Log("Ads SDK Initialized!");
